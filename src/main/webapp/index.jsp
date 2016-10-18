@@ -7,6 +7,7 @@
     </head>
     <body>
         <h1>Hello Java EE 7 Continuous Delivery!</h1>
+        <h2>Hello Java EE 7 !</h2>
         
         GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.
     </body>
